@@ -23,7 +23,8 @@
 * Navigate to the top level of the directory by typing **cd currency** and press Enter on the keyboard
 * type **code .** into the terminal and press Enter on the keyboard
 * Open the terminal in VSCode by pressing **Ctrl + `** on the keyboard
-
+* Create a .env folder by navigating to the rool level of the folder and typing **touch .env** into the terminal followed by enter/return.
+* Navigate to the .env file and type **API_KEY=** followed by your API key from [ExchangeRate-API](https://www.exchangerate-api.com/). Save the file.
 * type **npm install** into the terminal and press Enter on the keyboard
 * type **npm run start** into the terminal and press Enter on the keyboard
 * Select the amount, currency codes to convert from and to, and click the **Submit** button to see the result
