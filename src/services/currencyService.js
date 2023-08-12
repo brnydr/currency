@@ -1,5 +1,5 @@
 export default class CurencyService {
-  static async getCurrency(countryCode) {
+  static async getRates(countryCode) {
     try {
       const response = await fetch(`https://v6.exchangerate-api.com/v6/${process.env.API_KEY}/latest/${countryCode}`);
       if (!response.ok) {
@@ -10,6 +10,6 @@ export default class CurencyService {
     }
     catch(error){
       return error;
-    };
-  };
+    }
+  }
 }
