@@ -29,6 +29,8 @@
 * type **npm run start** into the terminal and press Enter on the keyboard
 * Select the amount, currency codes to convert from and to, and click the **Submit** button to see the result
 
+*At the bottom of each dropdown, I've included an unsupported currency code to demonstrate error handling*
+
 
 
 ## Known Bugs
