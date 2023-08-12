@@ -25,7 +25,6 @@
 * Open the terminal in VSCode by pressing **Ctrl + `** on the keyboard
 
 * type **npm install** into the terminal and press Enter on the keyboard
-* type **npm run build** into the terminal and press Enter on the keyboard
 * type **npm run start** into the terminal and press Enter on the keyboard
 * Select the amount, currency codes to convert from and to, and click the **Submit** button to see the result
 
