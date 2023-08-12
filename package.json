@@ -1,7 +1,7 @@
 {
-  "name": "project-name-here",
+  "name": "curency-converter",
   "version": "1.0.0",
-  "description": "",
+  "description": "converts currency",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode=development",
@@ -9,8 +9,8 @@
     "lint": "eslint src --ext .js",
     "test": "jest --coverage"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["currency", "converter", "exchange", "epicodus"],
+  "author": "Brian Yoder",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.18.6",
